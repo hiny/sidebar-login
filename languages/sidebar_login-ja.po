@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Project-Id-Version: \n"
+
+#: .././sidebar-login.php:79
+msgid "Please enter your username"
+msgstr "ユーザー名を入力してください"
+
+#: .././sidebar-login.php:80
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: .././sidebar-login.php:166
+msgid "Please enter your username and password to login."
+msgstr "ユーザー名とパスワードを入力してログインしてください"
+
+#: .././includes/class-sidebar-login-widget.php:23
+msgid "Displays a login area in the sidebar."
+msgstr "サイドバーにログインエリアを追加します"
+
+#: .././includes/class-sidebar-login-widget.php:26
+msgid "Sidebar Login"
+msgstr "サイドバーログイン"
+
+#: .././includes/class-sidebar-login-widget.php:39
+msgid "Logged-out title"
+msgstr "ログアウト時のタイトル"
+
+#: .././includes/class-sidebar-login-widget.php:40
+#: .././includes/class-sidebar-login-widget.php:225
+msgid "Login"
+msgstr "ログイン"
+
+#: .././includes/class-sidebar-login-widget.php:44
+#: .././includes/class-sidebar-login-widget.php:74
+msgid "Links"
+msgstr "リンク"
+
+#: .././includes/class-sidebar-login-widget.php:44
+msgid "<code>Text | HREF</code>"
+msgstr "<code>表題 | リンク先URL</code>"
+
+#: .././includes/class-sidebar-login-widget.php:49
+msgid "Show lost password link"
+msgstr "パスワード紛失時のリンクを表示"
+
+#: .././includes/class-sidebar-login-widget.php:54
+msgid "Show register link"
+msgstr "新規登録のリンクを表示"
+
+#: .././includes/class-sidebar-login-widget.php:56
+#, php-format
+msgid "<a href=\"%s\">Anyone can register</a> must be enabled."
+msgstr ""
+"利用するには<a href=\"%s\">だれでもユーザー登録ができるようにする</a>を有効に"
+"してください"
+
+#: .././includes/class-sidebar-login-widget.php:60
+msgid "Login Redirect URL"
+msgstr "ログイン後のリダイレクトURL"
+
+#: .././includes/class-sidebar-login-widget.php:69
+msgid "Logged-in title"
+msgstr "ログイン時のタイトル"
+
+#: .././includes/class-sidebar-login-widget.php:70
+#: .././includes/class-sidebar-login-widget.php:224
+msgid "Welcome %username%"
+msgstr "ようこそ %username%さん"
+
+#: .././includes/class-sidebar-login-widget.php:74
+msgid "<code>Text | HREF | Capability</code>"
+msgstr "<code>表題 | リンクURL | Capability</code>"
+
+#: .././includes/class-sidebar-login-widget.php:75
+#, php-format
+msgid ""
+"<a href=\"%s\">Capability</a> (optional) refers to the type of user who can "
+"view the link."
+msgstr ""
+"<a href=\"%s\">Capability</a> (オプション) 詳細はこのリンク先のマニュアルをご"
+"覧ください"
+
+#: .././includes/class-sidebar-login-widget.php:80
+msgid "Show logged-in user avatar"
+msgstr "アバターを表示"
+
+#: .././includes/class-sidebar-login-widget.php:85
+msgid "Logout Redirect URL"
+msgstr "ログアウト後のリダイレクトURL"
+
+#: .././includes/class-sidebar-login-widget.php:164
+#: .././includes/class-sidebar-login-widget.php:171
+msgid "Register"
+msgstr "新規登録"
+
+#: .././includes/class-sidebar-login-widget.php:181
+msgid "Lost Password"
+msgstr "パスワードの紛失"
+
+#: .././includes/class-sidebar-login-widget.php:271
+msgid "Username"
+msgstr "ユーザー名"
+
+#: .././includes/class-sidebar-login-widget.php:272
+msgid "Password"
+msgstr "パスワード"
+
+#: .././includes/class-sidebar-login-widget.php:273
+msgid "Remember Me"
+msgstr "ログイン状態を保存する"
+
+#: .././includes/class-sidebar-login-widget.php:274
+msgid "Login &rarr;"
+msgstr "ログイン &rarr;"
